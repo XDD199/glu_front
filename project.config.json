@@ -40,8 +40,8 @@
   },
   "compileType": "miniprogram",
   "libVersion": "2.19.4",
-  "appid": "wx14b39d4e0361f86b",
-  "projectname": "miniprogram-1",
+  "appid": "wx6a6cde09e961489c",
+  "projectname": "glu_front",
   "debugOptions": {
     "hidedInDevtools": []
   },
